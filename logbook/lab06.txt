@@ -1,0 +1,12 @@
+LAB 6 LOGBOOK - Nevil Maru - E26B07F0766
+SETUP: my working directory is lab06-os-and-filesystem
+T1 prediction: I think ls / will show about bin items
+T1: /bin holds bash                                                              
+cat
+chmod
+cp
+csh
+dash
+date
+dd
+df
